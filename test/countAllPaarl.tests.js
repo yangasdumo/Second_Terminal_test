@@ -1,6 +1,6 @@
 
 import assert from "assert";
-import countAllPaarl from"../countAllPaarl";
+import countAllPaarl from"../countAllPaarl.js";
 
 
 describe('test CountAllPaarl function',function (){

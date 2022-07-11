@@ -1,6 +1,6 @@
 
 import assert from "assert";
-import mostProfitableDepartment from "../mostProfitableDepartment";
+import mostProfitableDepartment from "../mostProfitableDepartment.js";
 
 
 describe('mostProfitableDepartment',function(){

@@ -1,9 +1,9 @@
-function isWeekday(day){
+function isweekday(day){
 const daysOftheweek = ['Monday', 'Tuesday', 'Wednesday', 'Thurday', 'Friday'];
 
 return daysOftheweek.includes(day);
 }
 
-isWeekday('Saturday')
+isweekday('Saturday')
 
- export default isWeekday
+ export default isweekday

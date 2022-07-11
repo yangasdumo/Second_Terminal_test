@@ -1,5 +1,5 @@
 import assert from "assert";
-import isFromBellville from "../isfromBellivelle";
+import isFromBellville from "../isfromBellivelle.js";
 
 
 describe('test my Bellivelle function' , function(){

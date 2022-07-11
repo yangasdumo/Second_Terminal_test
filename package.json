@@ -1,8 +1,9 @@
 {
-  "name": "Second_Terminal_test",
+  "name": "second_terminal_test",
   "version": "1.0.0",
   "description": "",
   "main": "CountRegNumber.js",
+  "type": "module",
   "directories": {
     "test": "test"
   },

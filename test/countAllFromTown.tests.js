@@ -1,6 +1,6 @@
 
 import assert from "assert";
-import  countAllFromTown from "../countAllFromTown";
+import  countAllFromTown from "../countAllFromTown.js";
 
 describe('test CountAllFromTown', function () {
     it('should return 3 if the are three registration number from stellies', function () {

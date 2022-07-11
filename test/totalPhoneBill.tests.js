@@ -1,6 +1,6 @@
 
 import assert from "assert";
-import totalPhoneBill from "../totalPhoneBill";
+import totalPhoneBill from "../totalPhoneBill.js";
 
 describe('test total bill phone',function(){
  it('should return total',function(){

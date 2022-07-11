@@ -1,6 +1,6 @@
 
 import assert from "assert";
-import yearsAgo from"../yearsAgo";
+import yearsAgo from"../yearsAgo.js";
 
 describe('test yearsAgo Function', function () {
   it('should return error "string is passed ', function () {

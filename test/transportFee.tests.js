@@ -1,6 +1,6 @@
 
 import assert from "assert";
-import transportFee from "../transportFee";
+import transportFee from "../transportFee.js";
 
 
 describe('Transport Fee Function', function(){

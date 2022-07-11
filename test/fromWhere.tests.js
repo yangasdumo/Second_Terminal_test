@@ -1,6 +1,6 @@
 
 import assert from"assert";
-import fromWhere from"../fromWhere";
+import fromWhere from"../fromWhere.js";
 
 describe('test fromWhere function', function(){
 it ('should return belleville if registration is CY',function(){

@@ -1,6 +1,6 @@
 
 import assert from "assert";
-import regCheck from "../regCheck";
+import regCheck from "../regCheck.js";
 
 describe('test regCheck function' , function(){
     it('should return  required registration number ', function(){

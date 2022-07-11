@@ -1,5 +1,5 @@
 import assert from "assert";
-import findItemsOver from "../findItemsOver";
+import findItemsOver from "../findItemsOver.js";
 
 
 
